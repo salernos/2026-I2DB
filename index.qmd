@@ -12,8 +12,6 @@ author:
     - Washington University in St. Louis
 date: 2026-09-15
 date-format: "MMMM D, YYYY"
-#bibliography: ref.bib
-#csl: nature.csl
 
 format:
   revealjs:
@@ -36,11 +34,6 @@ format:
 
 resources:
   - images/
-
-title-slide-attributes:
-  data-background-image: "images/theme/bg1.png"
-  data-background-size: "auto 100%"
-  data-background-position: "right"
   
 execute:
   echo: false
@@ -55,7 +48,7 @@ execute:
 ![](images/qr_slides.png){width="35%" fig-align="center"}
 
 ::: footer
-[salernos.github.io/2026-washu-talking-public-health](salernos.github.io/2026-washu-talking-public-health)
+[salernos.github.io/2026-I2DB](salernos.github.io/2026-I2DB)
 :::
 
 ## First, Some Acknowledgements {.theme-bg3}
@@ -952,7 +945,7 @@ Z
 Here we focus on settings where all $n + N$ observations are i.i.d. samples from the same target population (i.e., $Y$ is MCAR)
 :::
 
-## This illustrates a broader shift in public health {.theme-bg3}
+## This illustrates a broader shift in public health {.theme-bg3 visibility="hidden"}
 
 ### The scale and diversity of AI applications is part of what makes this moment different
 
