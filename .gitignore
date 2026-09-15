@@ -1,0 +1,15 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/.quarto/
+**/*.quarto_ipynb
+
+# Quarto intermediate files
+index.knit_files/
+2026-I2DB_files/
+
+# Large local/reference files not used by presentation
+images/Public Health in a World Where We Can Predict Anything.pdf
+images/Rhino2a.jpg
